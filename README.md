@@ -1,3 +1,5 @@
+Integrantes: Jean Lucas De Cesare / Fabrício Vecchi Panisson
+
 💡 Projeto: Controle de Iluminação via Serial com Arduino + Raspberry Pi
 Esse projeto permite controlar três LEDs (representando os cômodos quarto, cozinha e sala) através da comunicação serial entre uma Raspberry Pi e um Arduino.
 
